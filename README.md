@@ -2,7 +2,7 @@
 
 Raspberry Pi security camera system with motion detection and automatic email alerts.
 
-This project was developed as my final high school graduation project (11th grade). The objective was not only to build a working system, but also to simulate the creation of a technology company and propose a marketable product.
+This project was developed as my final high school graduation project (11th grade). The objective was not only to build a working system, but also to simulate the creation of a company and propose a marketable product.
 
 OWLVision was designed as a low-cost smart surveillance solution capable of detecting movement, recording events, and automatically notifying users through email.
 
@@ -152,9 +152,3 @@ Click the image above to watch the demonstration video.
 This project was originally created in 2019 using the software and Raspberry Pi libraries available at that time.
 
 The repository preserves the original implementation while reorganizing the project structure and documentation for portfolio purposes.
-
----
-
-## Author
-
-Juan David Padilla
