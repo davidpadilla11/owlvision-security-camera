@@ -96,7 +96,7 @@ Complete Raspberry Pi environment used during development.
 
 The project was developed and tested using Raspberry Pi hardware with Pi Camera integration.
 
-Additional hardware detail:
+Hardware detail: Kit Raspberry Pi3 with Raspberry Pi camera rev 1.3
 
 ![Raspberry Pi](images/RaspberryPi.jpg)
 
